@@ -1,0 +1,23 @@
+h1{
+    padding: 30px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4em;
+}
+
+footer{
+    margin-bottom: 15px;
+    font-family: 'Quicksand', sans-serif;
+    padding: 8px 8px;
+}
+
+.foot{
+    background-color: RGBA(255, 229, 204, 0.7);
+    margin: 0;
+    text-align: center;
+}
+
+span{
+    padding-right: 25px;
+}
+

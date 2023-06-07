@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    color: rgb(6, 71, 6);
+    margin:auto;    
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('./assets/images/freshvegetablesAlexRaths-4c1ea186a88e4fd7b95283eee614600c.jpg');
+}
